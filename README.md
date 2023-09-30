@@ -19,3 +19,5 @@ which will run the chatbot.
 click the localhost link, this will then take you to an external web browser which will run the chatbot.
 
 Hosting chatbot on: https://huggingface.co/spaces/taiyubh21/Chatbot-To-Discuss-Public-Trust-In-AI
+
+By Mohammad Taiyub Hussain
